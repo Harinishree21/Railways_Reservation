@@ -1,6 +1,6 @@
 # Railways Reservation Application
 
-A simple project of a real time bus reservation system using JDBC using JAR
+A simple project of a real time Train reservation system using JDBC using JAR
 
 ## Insert JAR
 
